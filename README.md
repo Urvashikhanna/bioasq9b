@@ -1,10 +1,11 @@
 # bioasq9b
-Download our pre-processed version of BioASQ 9b training and test batch 5 dataset, and place them in the data_dir folder. Place the DistilBERT weights in the  BioBERT/BioBERT-PyTorch folder.
+Download our pre-processed version of BioASQ 9b training and test batch 5 dataset, and place them in the data_dir folder. 
+Place the DistilBERT weights in the  BioBERT/BioBERT-PyTorch folder.
 
 This code gradually unfreezes 3 transformer layers of DistilBERT at a time. Following command runs fine-tuining code on QA with default arguments. 
 
 python3 run_bioasq_distilBERT_unfreeze.py   
-         --i 2 
+                 --i 2 
 		 --do_train  
 		 --model_type distilbert 
 		 --model_name /BioBERT/BioBERT-PyTorch/distilbert-base-cased-distilled-squad/   
