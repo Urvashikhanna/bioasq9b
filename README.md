@@ -22,7 +22,7 @@ python3 run_bioasq_distilBERT_unfreeze.py
 		 
 
 Citation
-For now, cite the Arxiv paper:
+Cite the Arxiv paper:
 
 @article{}
 
