@@ -1,6 +1,8 @@
 # bioasq9b
-Download our pre-processed version of BioASQ 9b training (BioASQ_trainingdata_9b.json) and Test Batch 5 dataset (BioASQ-testset5.json), and place them in the data_dir folder. 
-Place the DistilBERT weights in the  BioBERT/BioBERT-PyTorch folder.
+Download our pre-processed version of BioASQ 9b training (BioASQ_trainingdata_9b.json) and Test Batch 5 dataset (BioASQ-testset5.json), and place them in the /BioBERT/BioBERT-PyTorch/data_dir folder. 
+Place the DistilBERT weights and the file transform_n2b_factoid.py in the  /BioBERT/BioBERT-PyTorch folder.
+
+Clone the github repository https://github.com/BioASQ/Evaluation-Measures in the /BioBERT folder. 
 
 This code gradually unfreezes 3 transformer layers of DistilBERT at a time. Following command runs fine-tuning code on QA with default arguments. 
 
