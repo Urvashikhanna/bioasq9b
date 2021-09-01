@@ -1,0 +1,2082 @@
+{
+    "version": "BioASQ9b", 
+  "data": [
+    {
+      "title": "BioASQ9b",
+    "paragraphs": [
+        {
+            "qas": [
+                {
+                    "id": "601c3fc21cb411341a000019_001",
+                    "question": "Which receptor is blocked by Finerenone?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Finerenone (FIN), a novel, nonsteroidal, potent, and selective mineralocorticoid receptor antagonist, improves endothelial dysfunction through enhancing nitric oxide (NO) bioavailability and decreasing superoxide anion levels due to an upregulation in vascular and renal superoxide dismutase activity."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c3fc21cb411341a000019_002",
+                    "question": "Which receptor is blocked by Finerenone?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Here, we investigated metabolic effects of the novel non-steroidal MRA finerenone (FIN) in a mouse model of high-fat diet (HFD)-induced obesity and the signaling pathways activated by MR antagonism at level of interscapular brown adipose tissue (iBAT)."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c3fc21cb411341a000019_003",
+                    "question": "Which receptor is blocked by Finerenone?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "OBJECTIVES: To evaluate the effects of aldosterone antagonists (selective (eplerenone), non-selective (spironolactone or canrenone), or non-steroidal mineralocorticoid antagonists (finerenone)) in adults who have CKD with proteinuria (nephrotic and non-nephrotic range) on: patient-centred endpoints including kidney failure (previously know as end-stage kidney disease (ESKD)), major cardiovascular events, and death (any cause); kidney function (proteinuria, estimated glomerular filtration rate (eGFR), and doubling of serum creatinine); blood pressure; and adverse events (including hyperkalaemia, acute kidney injury, and gynaecomastia)."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c3fc21cb411341a000019_004",
+                    "question": "Which receptor is blocked by Finerenone?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "For example, the novel nonsteroidal MRA finerenone has a balanced distribution between the heart and kidney compared with spironolactone, which is preferentially concentrated in the kidneys."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c3fc21cb411341a000019_005",
+                    "question": "Which receptor is blocked by Finerenone?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Other nonsteroidal MRA such as apararenone, finerenone, AZD9977, and LY2623091 are in different clinical trials in patients with hypertension suffering from renal or hepatic fibrotic diseases."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c3fc21cb411341a000019_006",
+                    "question": "Which receptor is blocked by Finerenone?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "(-)-Finerenone is a nonsteroidal mineralocorticoid receptor antagonist currently in phase III clinical trials for the treatment of chronic kidney disease in type 2 diabetes. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c3fc21cb411341a000019_007",
+                    "question": "Which receptor is blocked by Finerenone?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Mineralocorticoid Receptor Antagonists: a Comprehensive Review of Finerenone."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c3fc21cb411341a000019_008",
+                    "question": "Which receptor is blocked by Finerenone?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "PURPOSE OF REVIEW: We aim to review the mechanism of action and safety profile of mineralocorticoid receptor antagonists (MRAs) and discuss the differences between selective and non-selective MRAs. More specifically, finerenone is a new medication that is currently under investigation for its promising cardiovascular and nephrological effects."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c3fc21cb411341a000019_009",
+                    "question": "Which receptor is blocked by Finerenone?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": " A new selective MRA named finerenone (originally BAY 94-8862) has shown promising results in several trials (ARTS-HF and ARTS-DN) and smaller studies. Finerenone may have a dose-dependent benefit over older MRAs, decreasing rates of albuminuria and levels of BNP and NT-ProBNP without causing a significant increase in serum potassium levels."
+        },
+        {
+            "qas": [
+                {
+                    "id": "606ab57394d57fd87900004f_001",
+                    "question": "What is the effect of carbamazepine on CYP3A4?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Carbamazepine, a UGT and cytochrome P450 3A4 inducer, is a first-line treatment for trigeminal neuralgia."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6080646c4e6a4cf630000004_001",
+                    "question": "What protein is Otof gene encoding?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Hereditary hearing loss is characterized by a very high genetic heterogeneity. The OTOF (Locus: DFNB9), encoding otoferlin, is reported to be one of the major causes of non-syndromic hearing loss, and is also reported to be the most common cause of non-syndromic recessive auditory neuropathy spectrum disorder."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6080646c4e6a4cf630000004_002",
+                    "question": "What protein is Otof gene encoding?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Otoferlin (OTOF) gene mutations are the most common cause of hereditary ANSD according to investigations in several countries."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6080646c4e6a4cf630000004_003",
+                    "question": "What protein is Otof gene encoding?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Different mutations of the OTOF gene, encoding for otoferlin protein expressed in the cochlear inner hair cells, induces a form of deafness that is the major cause of nonsyndromic recessive auditory neuropathy spectrum disorder in humans."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6080646c4e6a4cf630000004_004",
+                    "question": "What protein is Otof gene encoding?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Mutations in OTOF (otoferlin) can be the cause of nonsyndromic deafness DFNB9."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6080646c4e6a4cf630000004_005",
+                    "question": "What protein is Otof gene encoding?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "The OTOF gene encodes otoferlin, a critical protein at the synapse of auditory sensory cells, the inner hair cells (IHCs). In the absence of otoferlin, signal transmission of IHCs fails due to impaired release of synaptic vesicles at the IHC synapse. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "6080646c4e6a4cf630000004_006",
+                    "question": "What protein is Otof gene encoding?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Deafness DFNB9, caused by mutations in the OTOF gene encoding otoferlin, "
+        },
+        {
+            "qas": [
+                {
+                    "id": "606c34c994d57fd879000077_001",
+                    "question": "Does the HercepTest use a polycloncal or monoclonal antibody?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Comparison of HER2 immunohistochemical results using a monoclonal antibody (SV2-61\u00ce\u00b3) and a polyclonal antibody (for Dako HercepTest) in advanced gastric cancer."
+        },
+        {
+            "qas": [
+                {
+                    "id": "606c34c994d57fd879000077_002",
+                    "question": "Does the HercepTest use a polycloncal or monoclonal antibody?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "We compared a monoclonal antibody (SV2-61\u00ce\u00b3) and a polyclonal antibody (Dako HercepTest) in immunohistochemical assessments of human epidermal growth factor receptor 2 (HER2) expression in 73 samples of advanced gastric cancer."
+        },
+        {
+            "qas": [
+                {
+                    "id": "60805c344e6a4cf630000001_001",
+                    "question": "Where is the organ of Corti located?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "We used mouse cochlear hair cells and House Ear Institute\u00e2\u20ac\u2018Organ of Corti\u00c2\u00a01 (HEI\u00e2\u20ac\u2018OC1) cells to explore the relationship between mtDNA copy number and cell apoptosis"
+        },
+        {
+            "qas": [
+                {
+                    "id": "60805c344e6a4cf630000001_002",
+                    "question": "Where is the organ of Corti located?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "We study the vibration modes of a short section in the middle turn of the gerbil cochlea including both longitudinal and radial interstitial fluid spaces between the pillar cells and hair cells to determine the role of the interstitial fluid flow within the organ of Corti (OoC). "
+        },
+        {
+            "qas": [
+                {
+                    "id": "60805c344e6a4cf630000001_003",
+                    "question": "Where is the organ of Corti located?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "The cochlear sensory epithelium, the organ of Corti, vibrates because of external and internal excitations. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "60805c344e6a4cf630000001_004",
+                    "question": "Where is the organ of Corti located?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "The cochlea, a coiled structure located in the ventral region of the inner ear, acts as the primary structure for the perception of sound. Along the length of the cochlear spiral is the organ of Corti, a highly derived and rigorously patterned sensory epithelium that acts to convert auditory stimuli into neural impulses. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "608069984e6a4cf630000006_001",
+                    "question": "What is the function of the stard10 protein?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "STARD10, a member of the steroidogenic acute regulatory protein (StAR)-related lipid transfer (START) protein family, is highly expressed in the liver and has been shown to transfer phosphatidylcholine."
+        },
+        {
+            "qas": [
+                {
+                    "id": "608069984e6a4cf630000006_002",
+                    "question": "What is the function of the stard10 protein?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "StarD10 contains a steroidogenic acute regulatory protein (StAR/StarD1)-related lipid transfer (START) domain that is thought to mediate binding of lipids. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "608069984e6a4cf630000006_003",
+                    "question": "What is the function of the stard10 protein?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "The steroidogenic acute regulatory protein (StAR)-related lipid transfer (START) domain is a protein module of approximately 210 residues that binds lipids, including sterols"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe31305a43ad3127800003b_001",
+                    "question": "What is the target of adalimumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "The objective of this study was to assess the relative importance of local versus systemic interactions between adalimumab and tumour necrosis factor (TNF)-\u00ce\u00b1 in rheumatoid arthritis (RA), identify localization of the site of adalimumab action and assess the efficacy of local (intra-articular) versus systemic adalimumab administration for treatment of RA"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe31305a43ad3127800003b_002",
+                    "question": "What is the target of adalimumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "The kinetics of adalimumab permeation to the synovial fluid (0.00422 L/h clearance of permeation) versus the rate of TNF\u00ce\u00b1 turnover in the affected joints (1.84 pmol/h synthesis rate and 0.877 h(-1) degradation rate constant) are apparently the major parameters that determine the time course of TNF\u00ce\u00b1 concentrations in the synovial fluid and the TNF\u00ce\u00b1-neutralizing effects of adalimumab in RA patients."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe31305a43ad3127800003b_003",
+                    "question": "What is the target of adalimumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Adalimumab is the first fully human monoclonal antibody directed against TNF. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe31305a43ad3127800003b_004",
+                    "question": "What is the target of adalimumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Adalimumab (ADA) is able to induce a comprehensive disease control in RA by achieving clinical, functional and radiographic control"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe31305a43ad3127800003b_005",
+                    "question": "What is the target of adalimumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Targeted drugs against key pathogenetic molecules such as TNF-alpha have significantly improved outcomes in rheumatoid arthritis (RA). They are widely used in clinical practice and drug registries give us information to support their use"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe31305a43ad3127800003b_006",
+                    "question": "What is the target of adalimumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Adalimumab is a fully human monoclonal antibody directed against tumor necrosis factor-alpha, a central cytokine in the immune response in psoriasis that has already been shown to be an effective target for therapy. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "606ae4fd94d57fd879000056_001",
+                    "question": "Which gene is implicated in the metabolism of codeine, and its polymorphisms in the mother can pose a risk to breastfeeding children?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Mothers with a CYP2D6 ultrarapid metabolizer phenotype may expose their infants to risk of adverse events when taking codeine while breastfeeding, by producing more of the active metabolite, morphine."
+        },
+        {
+            "qas": [
+                {
+                    "id": "60805e204e6a4cf630000002_001",
+                    "question": "What is the cause of the Kleefstra syndrome?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Kleefstra syndrome is a rare neurogenetic disorder caused by a subtelomeric 9q34.3 deletion or by an intragenic mutation of the euchromatin histone methyl transferase 1 gene (EHMT1)."
+        },
+        {
+            "qas": [
+                {
+                    "id": "60805e204e6a4cf630000002_002",
+                    "question": "What is the cause of the Kleefstra syndrome?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Kleefstra syndrome is a disorder caused by a mutation in the EHMT1 gene characterized in humans by general developmental delay, mild to severe intellectual disability and autism. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "60805e204e6a4cf630000002_003",
+                    "question": "What is the cause of the Kleefstra syndrome?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Kleefstra syndrome (KS) is an autosomal dominant disorder caused by a chromosomal deletion at 9q34.3 resulting in pathogenic variants of the gene that codes for the enzyme, euchromatin histone methyltransferase 1 (EHMT1). "
+        },
+        {
+            "qas": [
+                {
+                    "id": "60805e204e6a4cf630000002_004",
+                    "question": "What is the cause of the Kleefstra syndrome?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Mutations in the Euchromatic Histone Methyltransferase 1 (EHMT1) gene cause Kleefstra syndrome, a rare form of intellectual disability (ID) with strong autistic traits and sensory processing deficits."
+        },
+        {
+            "qas": [
+                {
+                    "id": "60805e204e6a4cf630000002_005",
+                    "question": "What is the cause of the Kleefstra syndrome?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Kleefstra syndrome (chromosome 9q34.3 deletion) is a rare genetic disorder with less than 110 patients reported till date. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c17c21cb411341a00000e_001",
+                    "question": "The Shingrix vaccine is used to prevent what disease?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Postherpetic neuralgia (PHN) is a challenging condition for pain management specialists. The prevention of herpes zoster (HZ) and subsequent PHN in individuals aged 50 years and older, via the development of new vaccines, is an ongoing research project. The live zoster vaccine (LZV, Zostavax\u00c2\u00ae) was the first proof of concept that vaccination could prevent HZ, but LZV cannot be used in various immunecompromised patients. This led to the development of a new non-live recombinant zoster vaccine (RZV, Shingrix\u00c2\u00ae). "
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c17c21cb411341a00000e_002",
+                    "question": "The Shingrix vaccine is used to prevent what disease?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": " Previously, secondary prevention of herpes zoster required live-attenuated vaccination, which is contraindicated in immunocompromised populations. More recently, a recombinant subunit vaccine (Shingrix, GlaxoSmithKline, Research Triangle Park, North Carolina) was approved by the Food and Drug Administration."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c17c21cb411341a00000e_003",
+                    "question": "The Shingrix vaccine is used to prevent what disease?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "SHINGRIX, a non-live recombinant herpes zoster vaccine, was approved by the Food and Drug Administration in 2017."
+        },
+        {
+            "qas": [
+                {
+                    "id": "602a84ae1cb411341a000116_001",
+                    "question": "Which class of genomic elements was assessed as part of the FANTOM6 project?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Long noncoding RNAs (lncRNAs) constitute the majority of transcripts in the mammalian genomes, and yet, their functions remain largely unknown. As part of the FANTOM6 project, we systematically knocked down the expression of 285 lncRNAs in human dermal fibroblasts and quantified cellular growth, morphological changes, and transcriptomic responses using Capped Analysis of Gene Expression (CAGE). Antisense oligonucleotides targeting the same lncRNAs exhibited global concordance, and the molecular phenotype, measured by CAGE, recapitulated the observed cellular phenotypes while providing additional insights on the affected genes and pathways. Here, we disseminate the largest-to-date lncRNA knockdown data set with molecular phenotyping (over 1000 CAGE deep-sequencing libraries) for further exploration and highlight functional roles for ZNF213-AS1 and lnc-KHDC3L-2."
+        },
+        {
+            "qas": [
+                {
+                    "id": "602828b11cb411341a0000fc_001",
+                    "question": "Which molecule is targeted by Camrelizumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Here we describe a case of a novel pattern of RRP induced by anti-PD-1 blockade Camrelizumab 2 years after radiotherapy, with some focus on further understanding of this phenomenon. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "602828b11cb411341a0000fc_002",
+                    "question": "Which molecule is targeted by Camrelizumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "After 15 months, due to tumor progression and brain metastasis, he started with administration of anti-PD-1 blockade Camrelizumab (200 mg q2w) and stereotactic radiosurgery (SRS). "
+        },
+        {
+            "qas": [
+                {
+                    "id": "602828b11cb411341a0000fc_003",
+                    "question": "Which molecule is targeted by Camrelizumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "We aimed to assess efficacy and safety of the anti-PD-1 antibody camrelizumab versus investigator's choice of chemotherapy in previously treated patients."
+        },
+        {
+            "qas": [
+                {
+                    "id": "602828b11cb411341a0000fc_004",
+                    "question": "Which molecule is targeted by Camrelizumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "This study aimed to assess the antitumour activity and safety of the anti-PD-1 inhibitor camrelizumab in pretreated patients with advanced hepatocellular carcinoma."
+        },
+        {
+            "qas": [
+                {
+                    "id": "602828b11cb411341a0000fc_005",
+                    "question": "Which molecule is targeted by Camrelizumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "In our present report, we described a newly diagnosed non-small-cell lung cancer\u00c2\u00a0patient who suffered from focal vitiligo for approximately ten\u00c2\u00a0years and was treated with the anti-programmed cell death-1 receptor\u00c2\u00a0antibody camrelizumab (SHR-1210), which accelerated the aggravation of depigmentation of the skin over the whole body in just half a year."
+        },
+        {
+            "qas": [
+                {
+                    "id": "602828b11cb411341a0000fc_006",
+                    "question": "Which molecule is targeted by Camrelizumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "PATIENTS AND METHODS: In this open-label, single-arm, phase II study, the safety and efficacy of combined regimen of chemotherapy consisting of gemcitabine, vinorelbine, and pegylated liposomal doxorubicin (GVD) plus anti-PD-1 antibody camrelizumab was assessed in rrPMBCL. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "602828b11cb411341a0000fc_007",
+                    "question": "Which molecule is targeted by Camrelizumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Apatinib plus camrelizumab (anti-PD1 therapy, SHR-1210) for advanced osteosarcoma (APFAO) progressing after chemotherapy: a single-arm, open-label, phase 2 trial."
+        },
+        {
+            "qas": [
+                {
+                    "id": "602828b11cb411341a0000fc_008",
+                    "question": "Which molecule is targeted by Camrelizumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "We further benchmarked the dissociation kinetics for three clinically approved PD-1 blockade mAbs (Nivolumab, Pembrolizumab, and Camrelizumab), intriguingly correlating well with the objective response rates in the hepatocellular carcinoma second-line treatment."
+        },
+        {
+            "qas": [
+                {
+                    "id": "602828b11cb411341a0000fc_009",
+                    "question": "Which molecule is targeted by Camrelizumab?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Purpose: Camrelizumab inhibits PD-1 in non-clinical models and showed typical non-clinical pharmacokinetic (PK) and safety profiles for an IgG4 monoclonal antibody. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "6086f0ef4e6a4cf630000011_001",
+                    "question": "What is a foam cell?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Foam cell, a hallmark of atherosclerosis, is prominently derived from monocyte-differentiated macrophage, and vascular smooth muscle cells (VSMCs) through unlimitedly phagocytizing oxidized low-density lipoprotein (oxLDL). Therefore, the inhibition of monocyte adhesion to endothelium and uptake of oxLDL might be a breakthrough point for retarding atherosclerosis."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6086f0ef4e6a4cf630000011_002",
+                    "question": "What is a foam cell?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Atherosclerosis (AS) is a chronic inflammatory disease that contributes to multiple cardiovascular diseases (CVDs), and foam cell formation plays important roles in the progression of AS."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6086f0ef4e6a4cf630000011_003",
+                    "question": "What is a foam cell?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Oxidative stress, inflammation, and foam cell formation in vascular smooth muscle cells (VSMCs) are considered to play crucial roles in the pathogenesis of atherosclerosis."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6086f0ef4e6a4cf630000011_004",
+                    "question": "What is a foam cell?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Excessive accumulation of lipid inclusions in the arterial wall cells (foam cell formation) caused by modified low-density lipoprotein (LDL) is the earliest and most noticeable manifestation of atherosclerosis. The mechanisms of foam cell formation are not fully understood and can involve altered lipid uptake, impaired lipid metabolism, or both."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6086f0ef4e6a4cf630000011_005",
+                    "question": "What is a foam cell?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Lipid droplet (LD) accumulation, a key feature of foam cells, constitutes an attractive target for therapeutic intervention in atherosclerosis."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6086f0ef4e6a4cf630000011_006",
+                    "question": "What is a foam cell?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Abnormal lipid metabolism in macrophages leads to atherosclerosis (AS). Excessive LDL cholesterol uptake by macrophages in the aortic endothelium leads to formation of foam cells."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601ff4a61cb411341a000076_001",
+                    "question": "What class of drugs frequently has muscle pain and other muscle toxicities such as mysositis and rhabdomyolysis as a side effect?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "3-hydroxy-3-methylglutaryl coenzyme A reductase reductase inhibitors (statins) are generally well tolerated, with statin-associated muscle symptoms (SAMS) the most common side effect (~10%) seen in statin users."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601ff4a61cb411341a000076_002",
+                    "question": "What class of drugs frequently has muscle pain and other muscle toxicities such as mysositis and rhabdomyolysis as a side effect?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": " Muscular complaints are known side-effects of statin therapy, ranging from myalgia to clinically important myositis and rhabdomyolysis. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "601ff4a61cb411341a000076_003",
+                    "question": "What class of drugs frequently has muscle pain and other muscle toxicities such as mysositis and rhabdomyolysis as a side effect?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": " the statin use and association with the presence and characteristics of muscular complaints."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601ff4a61cb411341a000076_004",
+                    "question": "What class of drugs frequently has muscle pain and other muscle toxicities such as mysositis and rhabdomyolysis as a side effect?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "n the studied set of patients muscular symptoms were a rather frequent effect of statin therapy. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "601ff4a61cb411341a000076_005",
+                    "question": "What class of drugs frequently has muscle pain and other muscle toxicities such as mysositis and rhabdomyolysis as a side effect?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "yopathy is included among the potential side-effects and toxicities associated with the lipid lowering agents, particularly 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase inhibitors. However, the precise mechanism of statin-induced muscle toxicity remains unclear."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601ff4a61cb411341a000076_006",
+                    "question": "What class of drugs frequently has muscle pain and other muscle toxicities such as mysositis and rhabdomyolysis as a side effect?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Lipid lowering drugs, such as statins, are commonly used to treat approximately 10 million Canadians affected by hypercholesterolemia. The most commonly experienced side-effect of statin medication is muscle pain"
+        },
+        {
+            "qas": [
+                {
+                    "id": "601ff4a61cb411341a000076_007",
+                    "question": "What class of drugs frequently has muscle pain and other muscle toxicities such as mysositis and rhabdomyolysis as a side effect?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Statin induced myopathy consists of a spectrum of myopathic disorders ranging from mild myalgia to fatal rhabdomyolysis"
+        },
+        {
+            "qas": [
+                {
+                    "id": "601ff4a61cb411341a000076_008",
+                    "question": "What class of drugs frequently has muscle pain and other muscle toxicities such as mysositis and rhabdomyolysis as a side effect?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": " The following is a presentation of 2 cases of statin induced myopathy in patients "
+        },
+        {
+            "qas": [
+                {
+                    "id": "601ff4a61cb411341a000076_009",
+                    "question": "What class of drugs frequently has muscle pain and other muscle toxicities such as mysositis and rhabdomyolysis as a side effect?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "In addition, discussion will surround the mechanism, predisposing risk factors and frequency of statin induced myopathy"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe3131fa43ad3127800004a_001",
+                    "question": "Which cytokine molecule activates SMADs?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "In an NEC animal model, oral administration of the isoform TGF-\u00ce\u00b21 activated the downstream effector Smad2 in intestine and significantly reduced NEC incidence"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe3131fa43ad3127800004a_002",
+                    "question": "Which cytokine molecule activates SMADs?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "The TGF-\u00ce\u00b2 signaling pathway outcome relies on the control of the spatial and temporal expression of >500 genes, which depend on the functions of the Smad protein along with those of diverse modulators of this signaling pathway, such as transcriptional factors and cofactors"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe3131fa43ad3127800004a_003",
+                    "question": "Which cytokine molecule activates SMADs?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "he TGF-\u00ce\u00b2/Smad pathway and coregulators Ski and SnoN clearly regulate each other through several positive and negative feedback mechanisms."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe3131fa43ad3127800004a_004",
+                    "question": "Which cytokine molecule activates SMADs?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "These effects of PFD were mediated by the inhibition of the TGF\u00e2\u20ac\u2018\u00ce\u00b21/Smad and PI3K/AKT signaling pathways."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe3131fa43ad3127800004a_005",
+                    "question": "Which cytokine molecule activates SMADs?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "The protein expression of TGF\u00e2\u20ac\u2018\u00ce\u00b21/mothers against decapentaplegic homolog (Smad) and phosphoinositide 3\u00e2\u20ac\u2018kinase (PI3K)/protein kinase B (AKT) signaling pathways was evaluated by western blotting"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe3131fa43ad3127800004a_006",
+                    "question": "Which cytokine molecule activates SMADs?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Transcription factor specificity protein 1 modulates TGF\u00ce\u00b21/Smad signaling to negatively regulate SIGIRR expression by human M1 macrophages stimulated with substance P."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe3131fa43ad3127800004a_007",
+                    "question": "Which cytokine molecule activates SMADs?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Importantly, this effect of Sp1 siRNA on TGF\u00ce\u00b21 and SIGIRR was blunted by siRNA for Smad2, Smad3, or Smad4, but not by TAK-1 siRNA."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe3131fa43ad3127800004a_008",
+                    "question": "Which cytokine molecule activates SMADs?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Sp1 modulates TGF\u00ce\u00b21/Smad signaling and negatively regulates SIGIRR protein production by macrophages after SP stimulation."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe3131fa43ad3127800004a_009",
+                    "question": "Which cytokine molecule activates SMADs?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "TGF-? regulates the ERK/MAPK pathway independent of the SMAD pathway"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe3131fa43ad3127800004a_010",
+                    "question": "Which cytokine molecule activates SMADs?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "We found that EGFR-mediated ID3 expression was regulated by Smad5, which was directly phosphorylated by AKT. Furthermore, ID3 alone imparted GSC features to primary astrocytes derived from Ink4a/Arf-deficient mouse, and EGFR-ID3-IL-6 signaling axis gave rise to tumor cell heterogeneity."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe3131fa43ad3127800004a_011",
+                    "question": "Which cytokine molecule activates SMADs?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Oral administration of transforming growth factor-\u00ce\u00b21 (TGF-\u00ce\u00b21) protects the immature gut from injury via Smad protein-dependent suppression of epithelial nuclear factor \u00ce\u00baB (NF-\u00ce\u00baB) signaling and proinflammatory cytokine production."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe3131fa43ad3127800004a_012",
+                    "question": "Which cytokine molecule activates SMADs?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "TGF-\u00ce\u00b21 effects appear to be mediated through the canonical Smad pathway"
+        },
+        {
+            "qas": [
+                {
+                    "id": "60281eb11cb411341a0000f5_001",
+                    "question": "What are common variants at 12q14 and 12q24 associated with?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Common variants at 12q14 and 12q24 are associated with hippocampal volume."
+        },
+        {
+            "qas": [
+                {
+                    "id": "60281eb11cb411341a0000f5_002",
+                    "question": "What are common variants at 12q14 and 12q24 associated with?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Aging is associated with reductions in hippocampal volume that are accelerated by Alzheimer's disease and vascular risk factors. Our genome-wide association study (GWAS) of dementia-free persons (n = 9,232) identified 46 SNPs at four loci with P values of <4.0 \u00c3\u2014 10(-7). In two additional samples (n = 2,318), associations were replicated at 12q14 within MSRB3-WIF1 (discovery and replication; rs17178006; P = 5.3 \u00c3\u2014 10(-11)) and at 12q24 near HRK-FBXW8 (rs7294919; P = 2.9 \u00c3\u2014 10(-11)). Remaining associations included one SNP at 2q24 within DPP4 (rs6741949; P = 2.9 \u00c3\u2014 10(-7)) and nine SNPs at 9p33 within ASTN2 (rs7852872; P = 1.0 \u00c3\u2014 10(-7)); along with the chromosome 12 associations, these loci were also associated with hippocampal volume (P < 0.05) in a third younger, more heterogeneous sample (n = 7,794). The SNP in ASTN2 also showed suggestive association with decline in cognition in a largely independent sample (n = 1,563). These associations implicate genes related to apoptosis (HRK), development (WIF1), oxidative stress (MSR3B), ubiquitination (FBXW8) and neuronal migration (ASTN2), as well as enzymes targeted by new diabetes medications (DPP4), indicating new genetic influences on hippocampal size and possibly the risk of cognitive decline and dementia."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601d74681cb411341a000042_001",
+                    "question": "Which mutation is targeted by Sotorasib?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "In a phase I trial, the KRASG12C inhibitor sotorasib elicited responses in about a third of patients with the disease and was generally well tolerated."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601d74681cb411341a000042_002",
+                    "question": "Which mutation is targeted by Sotorasib?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Sotorasib is a small molecule that selectively and irreversibly targets KRASG12C.METHODS: We conducted a phase 1 trial of sotorasib in patients with advanced solid tumors harboring the KRAS p.G12C mutation. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "601d74681cb411341a000042_003",
+                    "question": "Which mutation is targeted by Sotorasib?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "CONCLUSIONS: Sotorasib showed encouraging anticancer activity in patients with heavily pretreated advanced solid tumors harboring the KRAS p.G12C mutation."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601d74681cb411341a000042_004",
+                    "question": "Which mutation is targeted by Sotorasib?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "In a phase I trial, the KRASG12C inhibitor sotorasib elicited responses in about a third of patients with the disease and was generally well tolerated."
+        },
+        {
+            "qas": [
+                {
+                    "id": "603404f41cb411341a00014f_001",
+                    "question": "When is DELE1 exiting the mitochondrion?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": " stress-induced activation of OMA1 causes DELE1 to be cleaved into a short form that accumulates in the cytosol, where it binds to and activates HRI via its C-terminal portion."
+        },
+        {
+            "qas": [
+                {
+                    "id": "603404f41cb411341a00014f_002",
+                    "question": "When is DELE1 exiting the mitochondrion?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Mitochondrial stress stimulates OMA1-dependent cleavage of DELE1 and leads to the accumulation of DELE1 in the cytosol, where it interacts with HRI and activates the eIF2\u00ce\u00b1 kinase activity of HRI."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_001",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Here we show that HP1 can bind with high affinity to histone H3 methylated at lysine 9 but not at lysine 4"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_002",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Methylation of histone H3 lysine 9 creates a binding site for HP1 proteins."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_003",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": " Here we show that mammalian methyltransferases that selectively methylate histone H3 on lysine 9 (Suv39h HMTases) generate a binding site for HP1 proteins--a family of heterochromatic adaptor molecules implicated in both gene silencing and supra-nucleosomal chromatin structure."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_004",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "We show that methylated lysine 9 of histone H3 (Me9H3) is a marker of heterochromatin in divergent animal species. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_005",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Finally, we provide evidence that Me9H3 is neither necessary nor sufficient for localisation of heterochromatin protein 1 (HP1) to chromosomal DNA."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_006",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Structure of HP1 chromodomain bound to a lysine 9-methylated histone H3 tai"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_007",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Here, we present structural, energetic, and mutational analyses of the complex between the Drosophila HP1 chromodomain and the histone H3 tail with a methyllysine at residue 9, a modification associated with epigenetic silencing"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_008",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Methylation of lysine 9 in histone H3 is recognized by heterochromatin protein 1 (HP1), which directs the binding of other proteins to control chromatin structure and gene expression."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_009",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": " In Drosophila S2 cells, and on polytene chromosomes, methyl-Lys 27 and Pc are both excluded from areas that are enriched in methyl-Lys 9 and HP1"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_010",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "To better understand the molecular basis for the selection of methyl-lysine binding sites, we solved the 1.8 A structure of the Pc chromodomain in complex with a H3 peptide bearing trimethyl-Lys 27, and compared it with our previously determined structure of the HP1 chromodomain in complex with a H3 peptide bearing trimethyl-Lys 9."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_011",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Tri-methylation of histone H3 lysine 9 is important for recruiting heterochromatin protein 1 (HP1) to discrete regions of the genome, thereby regulating gene expression, chromatin packaging and heterochromatin formation. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_012",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "We investigated the role of Suz12 in constitutive heterochromatin and discovered that Suz12 is required for histone H3 lysine 9 tri-methylation (H3K9me3) in differentiated but not undifferentiated mouse embryonic stem cells."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_013",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Pericentric H3K9me3 Formation by HP1 Interaction-defective Histone Methyltransferase Suv39h1"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5ebac76b0d431b5f7300000d_014",
+                    "question": "Which histone mark is recognized by HP1?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Pericentric regions form epigenetically organized, silent heterochromatin structures that accumulate histone H3 lysine 9 tri-methylation (H3K9me3) and heterochromatin protein 1 (HP1), a methylated H3K9-binding protein. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "6081b64d4e6a4cf63000000a_001",
+                    "question": "What is the function of the HSJ1 proteins?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "HSJ1 (DNAJB2), a member of the DNAJ family of molecular chaperones, is a key player in neuronal proteostasis maintenance."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6081b64d4e6a4cf63000000a_002",
+                    "question": "What is the function of the HSJ1 proteins?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "HSJ1 is a neuronal enriched member of the HSP40/DNAJ co-chaperone family. Previous studies have shown that HSP40 proteins play a crucial role in protein aggregation and neurodegeneration in several neuronal types, in animal models and human diseases."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6081b64d4e6a4cf63000000a_003",
+                    "question": "What is the function of the HSJ1 proteins?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Homo sapiens J domain protein (HSJ1) is a J-domain containing co-chaperone that is known to stimulate ATPase activity of HSP70 chaperone, while it also harbors two ubiquitin (Ub)-interacting motifs (UIMs) that may bind with ubiquitinated substrates and potentially function in protein degradation. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "601dbe2b1cb411341a00004d_001",
+                    "question": "What is the indication for zolmitriptan?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "here are many new treatment options available for migraine and more are coming. Three calcitonin gene-related peptide (CGRP) antagonist monoclonal antibodies have been approved and a 4th is due in early 2020. Small molecule CGRP receptor-blocking oral compounds, both for acute care and prevention, are also coming. Four neurostimulators are available, with others on the way. New acute treatments coming soon include the 5HT1F agonist lasmiditan, a zolmitriptan intradermal micro-needle patch, and a nasal mist sumatriptan with a permeability enhancer. F"
+        },
+        {
+            "qas": [
+                {
+                    "id": "601dbe2b1cb411341a00004d_002",
+                    "question": "What is the indication for zolmitriptan?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Migraine has recently become a major interest to the neuroscientists. Zolmitriptan is an effective medicine used in the treatment of migraine."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601dbe2b1cb411341a00004d_003",
+                    "question": "What is the indication for zolmitriptan?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Development of a novel zolmitriptan intracutaneous microneedle system (Qtrypta\u00e2\u201e\u00a2) for the acute treatment of migraine"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe09c99a43ad31278000033_001",
+                    "question": "What percentage of C. elegans genes reside in operons?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Nearly 15% of the ~20,000 C. elegans genes are contained in operons, multigene clusters controlled by a single promoter."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe09c99a43ad31278000033_002",
+                    "question": "What percentage of C. elegans genes reside in operons?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Our evidence indicates that the genome contains at least 1,000 operons, 2 8 genes long, that contain about 15% of all C. elegans genes. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe09c99a43ad31278000033_003",
+                    "question": "What percentage of C. elegans genes reside in operons?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Because operons account for about 15% of the genes in C. elegans, this lower duplication frequency might place a large constraint on the plasticity of the genome."
+        },
+        {
+            "qas": [
+                {
+                    "id": "60527e8c94d57fd879000012_001",
+                    "question": "What is the most advanced phase of clinical trial that fingolimod has entered?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "In this longitudinal, 2-year prospective, phase IV, single-blind study, 40 MS patients treated with fingolimod and 39 untreated age, gender, and disability-matched MS patients were enrolled. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "605fb41094d57fd879000039_001",
+                    "question": "What is caused by a gain-of-function mutation in CLCN2?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "A gain-of-function mutation in the CLCN2 chloride channel gene causes primary aldosteronism."
+        },
+        {
+            "qas": [
+                {
+                    "id": "605fb41094d57fd879000039_002",
+                    "question": "What is caused by a gain-of-function mutation in CLCN2?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Primary aldosteronism is the most common and curable form of secondary arterial hypertension. We performed whole-exome sequencing in patients with early-onset primary aldosteronism and identified a de novo heterozygous c.71G>A/p.Gly24Asp mutation in the CLCN2 gene, encoding the voltage-gated ClC-2 chloride channel 1 , in a patient diagnosed at 9 years of age."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6026d8bf1cb411341a0000ce_001",
+                    "question": "What is the mode of administration of Ubrogepant?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Ubrogepant (MK-1602) is a novel, oral, calcitonin gene-related peptide receptor antagonist in clinical development with positive phase III outcomes for acute treatment of migraine. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "6020a9f11cb411341a000080_001",
+                    "question": "Which animal bite can cause Capnocytophaga canimorsus infection?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "INTRODUCTION: Capnocytophaga canimorsus infections are associated with dog bites, especially in asplenic or immunocompromised patients, and typically manifest as sepsis and/or bacteremia. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "6020a9f11cb411341a000080_002",
+                    "question": "Which animal bite can cause Capnocytophaga canimorsus infection?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "CONCLUSION: C. canimorsus meningitis is a rare but increasingly important clinical entity occurring in patients of all ages, typically after dog exposure."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6020a9f11cb411341a000080_003",
+                    "question": "Which animal bite can cause Capnocytophaga canimorsus infection?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "INTRODUCTION: The gram-negative bacteria known as Capnocytophaga canimorsus (C. canimorsus) is found in dog saliva and rarely can cause severe infection in humans following a bite or scratch. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "6020a9f11cb411341a000080_004",
+                    "question": "Which animal bite can cause Capnocytophaga canimorsus infection?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "PRESENTATION OF CASE: Here we describe the second ever published case of C. canimorsus bacteremia presenting with acute cholecystitis. The patient presented with epigastric pain and sepsis three weeks post domestic dog bite. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "6020a9f11cb411341a000080_005",
+                    "question": "Which animal bite can cause Capnocytophaga canimorsus infection?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "CONCLUSION: We strongly advocate blood cultures in patients who present with abdominal pain and sepsis, particularly when they have a recent history of animal bite. In cases of cholecystitis secondary to C. canimorsus it may be necessary to monitor the patient's progress more closely and treat with prolonged targeted antibiotic therapy."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6020a9f11cb411341a000080_006",
+                    "question": "Which animal bite can cause Capnocytophaga canimorsus infection?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Being Licked by a Dog Can Be Fatal: Capnocytophaga canimorsus"
+        },
+        {
+            "qas": [
+                {
+                    "id": "6020a9f11cb411341a000080_007",
+                    "question": "Which animal bite can cause Capnocytophaga canimorsus infection?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "LEARNING POINTS: Pet owners with banal, for instance flu-like, symptoms should urgently seek medical advice when symptoms are unusual.Capnocytophaga canimorsus infection should be considered and empirical antibiotic therapy immediately started or adjusted in the presence of purpura fulminans in the absence of animal bites or immunodeficiency."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6020a9f11cb411341a000080_008",
+                    "question": "Which animal bite can cause Capnocytophaga canimorsus infection?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "BACKGROUND: Capnocytophaga canimorsus is a bacterium of the normal oral flora of dogs and cats. Human infection is caused by animal bite but is rarely observed, mainly in immunocompromised patients. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "6020a9f11cb411341a000080_009",
+                    "question": "Which animal bite can cause Capnocytophaga canimorsus infection?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "CASE REPORT: In the first case, we present a 69-year-old immunocompetent woman with septic shock derived from skin and soft tissue infection after a dog's bite."
+        },
+        {
+            "qas": [
+                {
+                    "id": "6020a9f11cb411341a000080_010",
+                    "question": "Which animal bite can cause Capnocytophaga canimorsus infection?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "In the second case, we present a 65-year-old immunocompetent man with meningitis after a dog's bite. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "6020a9f11cb411341a000080_011",
+                    "question": "Which animal bite can cause Capnocytophaga canimorsus infection?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "A 70-year-old Caucasian woman was treated for Capnocytophaga canimorsus septicaemia. The source of bacteraemia was very likely to be her household pet, an Italian greyhound. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "6032ba631cb411341a00014b_001",
+                    "question": "What is the function of lysozyme?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Lysozyme activity (a marker of Paneth cell function)"
+        },
+        {
+            "qas": [
+                {
+                    "id": "6032ba631cb411341a00014b_002",
+                    "question": "What is the function of lysozyme?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Lysozymes are an ancient group of antimicrobial enzymes of the innate immune system. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "6032ba631cb411341a00014b_003",
+                    "question": "What is the function of lysozyme?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": " It displays chitinase and lysozyme activity, which could be important for the defense against pathogenic fungi, insects and bacteria. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "606c34ff94d57fd879000078_001",
+                    "question": "What methodology does the HercepTest use?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": " The expression of HER2 was determined by immunohistochemistry (IHC) using DAKO-HercepTest\u00e2\u201e\u00a2 and gene amplification with DuoCISH using a DAKO-DuoCISH kit. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "601ebde11cb411341a00005d_001",
+                    "question": "Which R/Bioconductor package has been developed for gene expression signature searching?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "signatureSearch: environment for gene expression signature searching and functional interpretation."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601ebde11cb411341a00005d_002",
+                    "question": "Which R/Bioconductor package has been developed for gene expression signature searching?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "signatureSearch is an R/Bioconductor package that integrates a suite of existing and novel algorithms into an analysis environment for gene expression signature (GES) searching combined with functional enrichment analysis (FEA) and visualization methods to facilitate the interpretation of the search results. In a typical GES search (GESS), a query GES is searched against a database of GESs obtained from large numbers of measurements, such as different genetic backgrounds, disease states and drug perturbations. Database matches sharing correlated signatures with the query indicate related cellular responses frequently governed by connected mechanisms, such as drugs mimicking the expression responses of a disease. To identify which processes are predominantly modulated in the GESS results, we developed specialized FEA methods combined with drug-target network visualization tools. The provided analysis tools are useful for studying the effects of genetic, chemical and environmental perturbations on biological systems, as well as searching single cell GES databases to identify novel network connections or cell types. The signatureSearch software is unique in that it provides access to an integrated environment for GESS/FEA routines that includes several novel search and enrichment methods, efficient data structures, and access to pre-built GES databases, and allowing users to work with custom databases."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c317a1cb411341a000014_001",
+                    "question": "Which molecule is targeted by Upadacitinib?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "OBJECTIVES: We assessed the relative efficacy and safety of once-daily administration of 15 and 30\u00e2\u20ac\u00afmg upadacitinib (a\u00c2\u00a0JAK1-selective inhibitor) in patients with active rheumatoid arthritis (RA)"
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c317a1cb411341a000014_002",
+                    "question": "Which molecule is targeted by Upadacitinib?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": " In contrast, efficacy of filgotinib, a selective JAK1 inhibitor, in CD patients was demonstrated in the randomized, double-blinded, placebo-controlled phase II FITZROY study. Upadacitinib also showed promising results in a phase II trial in moderate to severe CD."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c317a1cb411341a000014_003",
+                    "question": "Which molecule is targeted by Upadacitinib?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Upadacitinib is a Janus kinase\u00c2\u00a01 inhibitor developed for treatment of moderate to severe rheumatoid arthritis (RA) and was recently approved by the US Food and Drug Administration for this indication in adults who have had an inadequate response or intolerance to methotrexate. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c317a1cb411341a000014_004",
+                    "question": "Which molecule is targeted by Upadacitinib?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "BJECTIVE: We sought to evaluate the safety and efficacy of multiple doses of the selective Janus kinase 1 inhibitor upadacitinib in patients with moderate to severe atopic dermatitis."
+        },
+        {
+            "qas": [
+                {
+                    "id": "601c317a1cb411341a000014_005",
+                    "question": "Which molecule is targeted by Upadacitinib?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "The aim of this study was to characterize the effects of upadacitinib, a Janus kinase 1 inhibitor, on in vivo activity of different cytochrome P450 (CYP) enzymes using a cocktail approach. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "601db60e1cb411341a000049_001",
+                    "question": "On what chromosome is the gene for \"SILVER\" coat color found for the domestic cat?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Linkage mapping defined a genomic region for SILVER as a 3.3-Mb region, (95.87-99.21 Mb) on chromosome D2"
+        },
+        {
+            "qas": [
+                {
+                    "id": "606ad07394d57fd879000050_001",
+                    "question": "What is the prevalence of poor metabolizers of CYP2C19 among Southern Asians compared to East Asians?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "There is paucity of data on voriconazole therapeutic drug monitoring (TDM) among Southeast Asians, who exhibit a higher prevalence of CYP2C19-poor metabolisers compared with Caucasians and East Asians. "
+        },
+        {
+            "qas": [
+                {
+                    "id": "601d79e01cb411341a000047_001",
+                    "question": "Which R/Bioconductor package has been developed for network-based differential expression analysis?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "INDEED: R package for network based differential expression analysis"
+        },
+        {
+            "qas": [
+                {
+                    "id": "601d79e01cb411341a000047_002",
+                    "question": "Which R/Bioconductor package has been developed for network-based differential expression analysis?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "These interactions are typically evaluated by correlation methods that tend to generate over-complicated networks due to many seemingly indirect associations. In this paper, we introduce a new R/Bioconductor package INDEED that allows users to construct a sparse network based on partial correlation, and to identify biomolecules that have significant changes both at individual expression and pairwise interaction levels. We applied INDEED for analysis of two omic datasets acquired in a cancer biomarker discovery study to help rank disease-associated biomolecules. We believe biomolecules selected by INDEED lead to improved sensitivity and specificity in detecting disease status compared to those selected by conventional statistical methods. Also, INDEED's framework is amenable to further expansion to integrate networks from multi-omic studies, thereby allowing selection of reliable disease-associated biomolecules or disease biomarkers."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe30efea43ad31278000038_001",
+                    "question": "Which database contains gene expression data for yeast?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "We developed the ExpressDB database for yeast RNA expression data and loaded it with approximately 17.5 million pieces of data reported by 11 studies with three different kinds of high-throughput RNA assays."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe30efea43ad31278000038_002",
+                    "question": "Which database contains gene expression data for yeast?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "MOPED (Multi-Omics Profiling Expression Database; http://moped.proteinspire.org) has transitioned from solely a protein expression database to a multi-omics resource for human and model organisms."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe30efea43ad31278000038_003",
+                    "question": "Which database contains gene expression data for yeast?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "MOPED enables discoveries through consistently processed proteomics data."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe30efea43ad31278000038_004",
+                    "question": "Which database contains gene expression data for yeast?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "The Model Organism Protein Expression Database (MOPED, http://moped.proteinspire.org) is an expanding proteomics resource to enable biological and biomedical discoveries"
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe30efea43ad31278000038_005",
+                    "question": "Which database contains gene expression data for yeast?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "yStreX: yeast stress expression database."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe30efea43ad31278000038_006",
+                    "question": "Which database contains gene expression data for yeast?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "The filamentous fungal gene expression database (FFGED)."
+        },
+        {
+            "qas": [
+                {
+                    "id": "5fe30efea43ad31278000038_007",
+                    "question": "Which database contains gene expression data for yeast?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "To aid research on fungal gene expression, we constructed a novel, comprehensive, free database, the filamentous fungal gene expression database (FFGED), available at http://bioinfo.townsend.yale.edu"
+        },
+        {
+            "qas": [
+                {
+                    "id": "606b5ba794d57fd879000067_001",
+                    "question": "Which CYP gene polymorphism is a well-known predictor of efavirenz disposition?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Cytochrome P450 (CYP) CYP2B6 G516T (rs3745274) is a well-known predictor of efavirenz disposition."
+        },
+        {
+            "qas": [
+                {
+                    "id": "605cc21d94d57fd879000036_001",
+                    "question": "What is the role of the IRE1a-XBP1 pathway?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "Genome-wide analyses reveal the IRE1a-XBP1 pathway promotes T helper cell differentiation by resolving secretory stress and accelerating proliferation."
+        },
+        {
+            "qas": [
+                {
+                    "id": "605cc21d94d57fd879000036_002",
+                    "question": "What is the role of the IRE1a-XBP1 pathway?",
+                    "answers": [
+                        {
+                            "text": "Dummy"
+                        }
+                    ]
+                }
+            ],
+            "context": "We confirm and detail the critical role of the IRE1a-XBP1 pathway during Th2 lymphocyte activation in regulating cytokine expression, secretion, and cell proliferation. Our high-quality genome-wide XBP1 ChIP and gene expression data provide a rich resource for investigating XBP1-regulated genes. We provide a browsable online database available at http://data.teichlab.org ."
+        }
+    ]
+}
+]
+    }
