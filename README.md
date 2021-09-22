@@ -31,8 +31,8 @@ Cite the Arxiv paper:
   author={Khanna, Urvashi and Moll{\'a}, Diego},
   journal={arXiv preprint arXiv:2109.07185},
   year={2021}
-```}
-
+}
+```
 
 or the Conference paper:
 
