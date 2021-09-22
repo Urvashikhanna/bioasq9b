@@ -47,6 +47,6 @@ publisher = "CEUR",
 pages = "247--257",
 editor = "Guglielmo Faggioli and Nicola Ferro and Alexis Joly and Maria Maistro and Florina Piroi",
 booktitle = "CLEF 2021 Working Notes",
-}```
-
+}
+```
 
