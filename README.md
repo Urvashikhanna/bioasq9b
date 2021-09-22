@@ -1,5 +1,5 @@
 # bioasq9b
-Download our pre-processed version of BioASQ 9b training (BioASQ_trainingdata_9b.json) and Test Batch 5 dataset (BioASQ-testset5.json), and place them in the /BioBERT/BioBERT-PyTorch/data_dir folder. 
+Download our pre-processed version of BioASQ 9b training (BioASQ_trainingdata_9b.json), Test Batch 5 dataset (BioASQ-testset5.json) and golden answers 9B5_golden.json, and place them in the /BioBERT/BioBERT-PyTorch/data_dir folder. 
 Place the DistilBERT weights and the file transform_n2b_factoid.py in the  /BioBERT/BioBERT-PyTorch folder.
 
 Clone the github repository https://github.com/BioASQ/Evaluation-Measures in the /BioBERT folder. 
