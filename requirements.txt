@@ -1,0 +1,16 @@
+transformers==2.5.0
+pytorch==1.4.0a0
+tensorflow==2.0.0
+
+# To evaluate RE answers :
+sklearn
+pandas==0.23
+
+
+
+
+# To evaluate BioASQ answers, your system should be able to execute java codes.
+# Please refer https://github.com/BioASQ/Evaluation-Measures for details.
+
+
+
